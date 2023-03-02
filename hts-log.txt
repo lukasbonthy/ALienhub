@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 16:22:02 at https://hub.alienhub.xyz/hello/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://hub.alienhub.xyz/hello/ -O1 "C:\Users\lukas\Downloads\oiffeiuh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:22:05	Warning: 	Found for https://hub.alienhub.xyz/robots.txt
+16:22:05	Warning: 	File has moved from https://hub.alienhub.xyz/robots.txt to /
+16:22:16	Error: 	"Forbidden" (403) at link https://www.google.com/search?q=%s (from https://hub.alienhub.xyz/hello/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 13 links scanned, 10 files written (1013191 bytes overall) [858168 bytes received at 61297 bytes/sec], 204545 bytes transferred using HTTP compression in 3 files, ratio 16%
+(1 errors, 2 warnings, 0 messages)
